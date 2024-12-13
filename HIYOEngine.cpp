@@ -146,6 +146,48 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             EndPaint(hWnd, &ps);
         }
         break;
+
+
+    //숙제
+
+    case WM_MOVE:
+    {
+        MessageBoxA(hWnd, "HEY", "MOVE", MB_OK); //움직일시 메시지박스
+    }
+    break;
+
+    case WM_SIZE:
+    {
+        MessageBoxA(hWnd, "BIG", "SIZE", MB_YESNO); //사이징시 YES OR NO 메시지박스
+    }
+    break;
+
+    case WM_LBUTTONDOWN:
+    {
+        if(MessageBoxA(hWnd, "LEFT", "BUTTON", MB_OKCANCEL)==IDOK); //좌측버튼클릭시 메시지박스,OK를 누르면 두번째 메시지박스
+        MessageBoxA(hWnd, "OKOK", "OK", MB_OK);
+    }
+    break;
+
+    case WM_RBUTTONUP:
+    {
+        MessageBoxA(hWnd, "RBUTTON", "UP", MB_ICONWARNING); //클릭하고 떼었을때
+
+    }
+    break;
+
+    case WM_KEYDOWN:
+    {
+        switch (wParam)
+        {
+        case VK_LEFT&& VK_RIGHT&& VK_SPACE:
+        {
+            MessageBoxA(hWnd, "LEFT", "RIGHT", MB_OK);//왼쪽 오른쪽 스페이스바를 동시에 누르면 빕사운드
+        }
+        }
+    }
+    break;
+
     case WM_DESTROY:
         PostQuitMessage(0);
         break;
