@@ -24,6 +24,7 @@
     <ProjectGuid>{7f2ed2e1-9cba-4eec-b10b-7ea894c5dd38}</ProjectGuid>
     <RootNamespace>HIYOEngine</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>HIYOEngine</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -141,6 +142,11 @@
   <ItemGroup>
     <Image Include="HIYOEngine.ico" />
     <Image Include="small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HIYOWindow\HIYOWindow.vcxproj">
+      <Project>{b65eb88e-09e6-457e-9862-2e384d7a32e0}</Project>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -5,6 +5,16 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F2ED2E1-9CBA-4EEC-B10B-7EA894C5DD38}|HIYOEngine.vcxproj|C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine\\HIYOEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7F2ED2E1-9CBA-4EEC-B10B-7EA894C5DD38}|HIYOEngine.vcxproj|solutionrelative:HIYOEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599EDEEB-FC29-4BEF-BB81-3EA7A691F813}|..\\HIYOEngine_Source\\HIYOEngine_Source.vcxitems|C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine_Source\\HIYOApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599EDEEB-FC29-4BEF-BB81-3EA7A691F813}|..\\HIYOEngine_Source\\HIYOEngine_Source.vcxitems|C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine_Source\\HIYOApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2ED2E1-9CBA-4EEC-B10B-7EA894C5DD38}|HIYOEngine.vcxproj|C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F2ED2E1-9CBA-4EEC-B10B-7EA894C5DD38}|HIYOEngine.vcxproj|solutionrelative:targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +24,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,15 +38,46 @@
               "RelativeDocumentMoniker": "HIYOEngine.cpp",
               "ToolTip": "C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine\\HIYOEngine.cpp",
               "RelativeToolTip": "HIYOEngine.cpp",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-08T01:15:45.407Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HIYOApplication.h",
+              "DocumentMoniker": "C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine_Source\\HIYOApplication.h",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_Source\\HIYOApplication.h",
+              "ToolTip": "C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine_Source\\HIYOApplication.h",
+              "RelativeToolTip": "..\\HIYOEngine_Source\\HIYOApplication.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T02:50:37.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HIYOApplication.cpp",
+              "DocumentMoniker": "C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine_Source\\HIYOApplication.cpp",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_Source\\HIYOApplication.cpp",
+              "ToolTip": "C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine_Source\\HIYOApplication.cpp",
+              "RelativeToolTip": "..\\HIYOEngine_Source\\HIYOApplication.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T02:50:22.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine\\targetver.h",
+              "RelativeDocumentMoniker": "targetver.h",
+              "ToolTip": "C:\\Users\\Y\\Desktop\\WinAPI\\HIYOEngine\\targetver.h",
+              "RelativeToolTip": "targetver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T02:13:25.62Z"
             }
           ]
         }
