@@ -3,21 +3,41 @@
   "WorkspaceRootPath": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|solutionrelative:framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\HIYOEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|solutionrelative:HIYOEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,7 +47,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,33 +55,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "HIYOMonster.cpp",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOMonster.cpp",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\HIYOMonster.cpp",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOMonster.cpp",
+              "RelativeToolTip": "..\\HIYOEngine_SOURCE\\HIYOMonster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T04:28:32.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HIYOMonster.h",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOMonster.h",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\HIYOMonster.h",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOMonster.h",
+              "RelativeToolTip": "..\\HIYOEngine_SOURCE\\HIYOMonster.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T04:28:24.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T04:08:51.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HIYOGameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOGameObject.cpp",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\HIYOGameObject.cpp",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOGameObject.cpp",
+              "RelativeToolTip": "..\\HIYOEngine_SOURCE\\HIYOGameObject.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T03:26:23.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HIYOGameObject.h",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOGameObject.h",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\HIYOGameObject.h",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOGameObject.h",
+              "RelativeToolTip": "..\\HIYOEngine_SOURCE\\HIYOGameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T03:26:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CommonInclude.h",
               "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\CommonInclude.h",
               "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\CommonInclude.h",
               "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\CommonInclude.h",
               "RelativeToolTip": "..\\HIYOEngine_SOURCE\\CommonInclude.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-28T02:50:03.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T01:25:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T04:31:25.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HIYOApp.cpp",
               "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.cpp",
               "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\HIYOApp.cpp",
               "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.cpp",
               "RelativeToolTip": "..\\HIYOEngine_SOURCE\\HIYOApp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-28T02:19:19.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "HIYOEngine.h",
               "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\HIYOEngine.h",
               "RelativeDocumentMoniker": "HIYOEngine.h",
@@ -69,32 +180,20 @@
               "RelativeToolTip": "HIYOEngine.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-28T02:14:04.931Z"
+              "WhenOpened": "2025-01-28T02:14:04.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "HIYOApp.h",
               "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.h",
               "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\HIYOApp.h",
               "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.h",
               "RelativeToolTip": "..\\HIYOEngine_SOURCE\\HIYOApp.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-28T02:08:37.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-28T01:25:54.111Z",
               "EditorCaption": ""
             }
           ]

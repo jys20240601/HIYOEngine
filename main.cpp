@@ -3,20 +3,22 @@
 
 #include "..\\HIYOEngine_SOURCE\HIYOApp.h"
 
-#define MAX_LOADSTRING 100
-
 // 전역 변수:
 HINSTANCE hInst;
 HIYO::App g_app;
 
+// 전방 선언:
 ATOM                MyRegisterClass(HINSTANCE hInstance);
 BOOL                InitInstance(HINSTANCE, int);
 LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
 
+// 메인 함수:
 int APIENTRY wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ LPWSTR lpCmdLine, _In_ int nCmdShow)
 {
+    //윈도우 등록
     MyRegisterClass(hInstance);
 
+    //윈도우 실행
     if (!InitInstance (hInstance, nCmdShow))
     {
         return FALSE;
@@ -24,6 +26,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance
 
     MSG msg;
 
+    //메시지 루프
     while (true)
     {
         if (PeekMessage(&msg, nullptr, 0, 0, PM_REMOVE))
@@ -36,6 +39,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance
         }
         else
         {
+            //APP 실행
             g_app.Run();
         }
     }
@@ -68,8 +72,9 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 {
    hInst = hInstance;
 
-   HWND hWnd = CreateWindowW(L"HIYOKey", L"HIYOEngine", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, 0, CW_USEDEFAULT, 0, nullptr, nullptr, hInstance, nullptr);
+   HWND hWnd = CreateWindowW(L"HIYOKey", L"HIYOEngine", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, 0, 1600, 900, nullptr, nullptr, hInstance, nullptr);
 
+   //APP 초기화
    g_app.Init(hWnd);
 
    if (!hWnd)
