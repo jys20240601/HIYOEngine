@@ -5,7 +5,7 @@
 
 // 전역 변수:
 HINSTANCE hInst;
-HIYO::App g_app;
+HIYO::App gApp;
 
 // 전방 선언:
 ATOM                MyRegisterClass(HINSTANCE hInstance);
@@ -40,7 +40,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance
         else
         {
             //APP 실행
-            g_app.Run();
+            gApp.Run();
         }
     }
 
@@ -72,10 +72,14 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 {
    hInst = hInstance;
 
-   HWND hWnd = CreateWindowW(L"HIYOKey", L"HIYOEngine", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, 0, 1600, 900, nullptr, nullptr, hInstance, nullptr);
+   const UINT width = 1600;
+   const UINT height = 900;
+
+   HWND hWnd = CreateWindowW(L"HIYOKey", L"HIYOEngine", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, 0, width, height, nullptr, nullptr, hInstance, nullptr);
+
 
    //APP 초기화
-   g_app.Init(hWnd);
+   gApp.Init(hWnd, width, height);
 
    if (!hWnd)
    {
