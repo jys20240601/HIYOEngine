@@ -2,6 +2,7 @@
 #include "HIYOEngine.h"
 
 #include "..\\HIYOEngine_SOURCE\HIYOApp.h"
+#include "..\\HIYOEngine_Window\HIYOLoadScenes.h"
 
 // 전역 변수:
 HINSTANCE hInst;
@@ -78,7 +79,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
    HWND hWnd = CreateWindowW(L"HIYOKey", L"HIYOEngine", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, 0, width, height, nullptr, nullptr, hInstance, nullptr);
 
 
-   //APP 초기화
+   //APP 초기화:
    gApp.Init(hWnd, width, height);
 
    if (!hWnd)
@@ -88,6 +89,9 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 
    ShowWindow(hWnd, nCmdShow);
    UpdateWindow(hWnd);
+
+   //씬 생성:
+   HIYO::LoadScenes();
 
    return TRUE;
 }
