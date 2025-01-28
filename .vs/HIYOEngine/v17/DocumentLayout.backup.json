@@ -3,8 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\HIYOEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|solutionrelative:HIYOEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB00F9E-C9AE-4D55-8428-52420F716BA0}|..\\HIYOEngine_SOURCE\\HIYOEngine_SOURCE.vcxitems|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\CommonInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\HIYOEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16B096D6-026D-410B-BF9E-048882342C55}|HIYOEngine.vcxproj|solutionrelative:HIYOEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +27,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +35,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonInclude.h",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\CommonInclude.h",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\CommonInclude.h",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\CommonInclude.h",
+              "RelativeToolTip": "..\\HIYOEngine_SOURCE\\CommonInclude.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T02:50:03.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HIYOEngine.cpp",
-              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\HIYOEngine.cpp",
-              "RelativeDocumentMoniker": "HIYOEngine.cpp",
-              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\HIYOEngine.cpp",
-              "RelativeToolTip": "HIYOEngine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Title": "HIYOApp.cpp",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.cpp",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\HIYOApp.cpp",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.cpp",
+              "RelativeToolTip": "..\\HIYOEngine_SOURCE\\HIYOApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T02:19:19.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HIYOEngine.h",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\HIYOEngine.h",
+              "RelativeDocumentMoniker": "HIYOEngine.h",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\HIYOEngine.h",
+              "RelativeToolTip": "HIYOEngine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T02:14:04.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HIYOApp.h",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.h",
+              "RelativeDocumentMoniker": "..\\HIYOEngine_SOURCE\\HIYOApp.h",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine_SOURCE\\HIYOApp.h",
+              "RelativeToolTip": "..\\HIYOEngine_SOURCE\\HIYOApp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T02:08:37.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\jys20\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cpp\\HIYOEngine\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-28T01:25:54.111Z",
               "EditorCaption": ""
