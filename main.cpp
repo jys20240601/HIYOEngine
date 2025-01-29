@@ -73,6 +73,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 {
    hInst = hInstance;
 
+   //윈도우 크기 설정:
    const UINT width = 1600;
    const UINT height = 900;
 
